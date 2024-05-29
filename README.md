@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrg1nger
-- 👀 I’m interested in Powershell, PHP, C#, 3D Printing, RC Cars
+- 👀 I’m interested in Powershell, PHP, C#, 3D Printing.
 - 🌱 I’m currently learning anything I can get my hands on. 
 - 📫 How to reach me: chris@pwrshell.com
 
